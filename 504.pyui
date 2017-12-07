@@ -1,0 +1,147 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 71}, {269, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "addbutton",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "enter",
+          "uuid" : "60C4F774-30B6-4871-A555-6233B66CD8C9",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 31}, {269, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{412, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "12AB106D-C7AA-478E-B008-31F58B018FB4",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "textfield1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {269, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "2651D8D3-D891-472A-ACF2-801DDCCDF221",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "enter marks",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 111}, {269, 200}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "17180185-3B6C-4139-AF17-A5525477AC05",
+          "font_size" : 17,
+          "background_color" : "RGBA(0.733333,0.733333,1.000000,1.000000)",
+          "frame" : "{{412, 284}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text_color" : "RGBA(1.000000,-0.333333,0.000000,1.000000)",
+          "text" : "",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "markview",
+          "flex" : "WH"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 319}, {269, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "averagebutton",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Average",
+          "uuid" : "4F935371-8EEA-4F83-AA41-328EDC9AD4BC",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 359}, {269, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "5541C084-66B5-4407-9C94-CACDBC4A65A4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "averagelabel",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{277, 31}, {248, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "errorlabel",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "A8F65248-25C0-4C5F-9CBD-9297070AACEA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
